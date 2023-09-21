@@ -1,5 +1,5 @@
 # blender renders 
-mostly from high school 2013-2017, some from college 2019
+[Blender](https://github.com/blender/blender) is an open-source 3D modeling software. This repo mostly contains my renders from high school ([VREP](https://ccedfuture.wordpress.com/2015/04/24/students-share-tech-with-students/) 2013-2017), with some from college (2019). All work is original and manually modeled. 
 
 # Example Renders
 
