@@ -14,5 +14,5 @@
 
 
 
-[chemistry video](https://drive.google.com/file/d/0ByQ2MPAlDmMbeWcyUEg3U1VVNFk/view?usp=sharing&resourcekey=0-iulGUbSk_5W1xTh71tX7Jg)
+[chemistry video from VREP](https://drive.google.com/file/d/0ByQ2MPAlDmMbeWcyUEg3U1VVNFk/view?usp=sharing&resourcekey=0-iulGUbSk_5W1xTh71tX7Jg)
 
