@@ -3,7 +3,7 @@
 
 
 # Example Renders
-## Animations
+## Sample Animations
 [ball to glass](https://drive.google.com/file/d/1xKb5QsQQdRDxBU7AnEySkwlY6nqli6u8/view?usp=sharing)
 
 [heartbreak](https://drive.google.com/file/d/1ijGelqsmkHRasW5ZMfxPi172cJ-6ZoIT/view?usp=sharing)
@@ -14,7 +14,7 @@
 
 [chemistry video](https://drive.google.com/file/d/0ByQ2MPAlDmMbeWcyUEg3U1VVNFk/view?usp=sharing&resourcekey=0-iulGUbSk_5W1xTh71tX7Jg)
 
-## Still Renders
+## Sample Still Renders
 ![image](https://github.com/nbabtsov/blender_renders/assets/31867318/78a2fcaf-ba4b-4d01-9cd3-17582abbc951)
 ![image](https://github.com/nbabtsov/blender_renders/assets/31867318/4259d700-162a-4733-8387-ff983c115468)
 ![image](https://github.com/nbabtsov/blender_renders/assets/31867318/0df881ab-70ff-438b-9c83-e17cfaff0d8c)
