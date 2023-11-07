@@ -2,8 +2,7 @@
 [Blender](https://github.com/blender/blender) is an open-source 3D modeling software. This repo mostly contains my renders from high school ([VREP](https://ccedfuture.wordpress.com/2015/04/24/students-share-tech-with-students/) 2013-2017), with some from college (2019). All work is original and manually modeled. 
 
 
-# Example Renders
-## Sample Animations
+# Sample Animations
 
 
 
@@ -18,7 +17,7 @@ https://github.com/nbabtsov/blender_renders/assets/31867318/2e7d9ecb-b501-4654-8
 
 [chemistry video with animation](https://drive.google.com/file/d/0ByQ2MPAlDmMbeWcyUEg3U1VVNFk/view?usp=sharing&resourcekey=0-iulGUbSk_5W1xTh71tX7Jg)
 
-## Sample Renders
+# Sample Renders
 ![image](https://github.com/nbabtsov/blender_renders/assets/31867318/78a2fcaf-ba4b-4d01-9cd3-17582abbc951)
 ![image](https://github.com/nbabtsov/blender_renders/assets/31867318/4259d700-162a-4733-8387-ff983c115468)
 ![image](https://github.com/nbabtsov/blender_renders/assets/31867318/0df881ab-70ff-438b-9c83-e17cfaff0d8c)
