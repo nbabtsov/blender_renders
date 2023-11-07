@@ -8,17 +8,12 @@
 
 
 
-
-
-
 https://github.com/nbabtsov/blender_renders/assets/31867318/082ac74a-d017-4967-bcd9-71929c78481c
 
 https://github.com/nbabtsov/blender_renders/assets/31867318/a50606cc-8215-4f75-9567-90acb72a8cb0
 
-https://github.com/nbabtsov/blender_renders/assets/31867318/1dba84fb-d5c8-44a4-8f0b-bd473e43811e
 
-
-[ball to glass animation](https://drive.google.com/file/d/1xKb5QsQQdRDxBU7AnEySkwlY6nqli6u8/view?usp=sharing)
+https://github.com/nbabtsov/blender_renders/assets/31867318/2e7d9ecb-b501-4654-8401-5ba9fb31aa66
 
 
 [chemistry video with animation](https://drive.google.com/file/d/0ByQ2MPAlDmMbeWcyUEg3U1VVNFk/view?usp=sharing&resourcekey=0-iulGUbSk_5W1xTh71tX7Jg)
